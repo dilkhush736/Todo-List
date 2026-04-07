@@ -41,6 +41,8 @@ docs: update 76
 docs: update 77
 docs: update 78
 docs: update 79
+docs: update 80
+Co-authored-by: dk5847001-stack <dk5847001@gmail.com>
 
 | Option | Type | Default | Description |
 |--------|------|---------|-------------|
